@@ -3,7 +3,7 @@ As compared to its v1 this project is made to give new programmers a glimpse of 
 
 # Register Page
 
-![Register](https://user-images.githubusercontent.com/34340232/154831400-fe93b0c8-1a24-4008-843f-557f6db8923b.png)
+![Register](https://user-images.githubusercontent.com/34340232/154832164-8f500dd4-0f6a-441c-9796-1046081c3e07.png)
 
 # Login Page
 
